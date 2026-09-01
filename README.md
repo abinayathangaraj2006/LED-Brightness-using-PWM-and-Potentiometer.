@@ -1,4 +1,4 @@
-# Control-LED-Brightness-using-PWM-and-Potentiometer.
+# Control-LED-Brightness-using-PWM-and-Potentiometer
 ### 1. Aim
 
 To control the brightness of an LED using **Pulse Width Modulation (PWM)** by varying the output of a **potentiometer** using an Arduino board.
